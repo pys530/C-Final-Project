@@ -1,6 +1,6 @@
 # C-Final-Project
 
-You are to create a C++ code library that contains tne following data structures and algorithms:
+You are to create a C++ code library that contains the following data structures and algorithms:
 
 Djikstra's Algorithm
 
